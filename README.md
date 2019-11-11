@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# spa-vue
+# iTunes Vue
 
 ## Project setup
 ```
@@ -37,6 +36,3 @@ Front end application developed with Vue.js to connect and search the iTunes api
 
 - Vue.js
 - SASS
-
-
->>>>>>> 762ff8188de8c4c6fb0ab52f312d33d2ff25d5c2
