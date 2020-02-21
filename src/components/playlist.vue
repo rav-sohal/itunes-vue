@@ -1,18 +1,11 @@
 <template>
   <div class="container search">
     <div class="row">
-
-
       <div class="col-md-12">
-
-
     <header-list :itemList="List"/>
-        
       </div>
     </div>
     <!-- <div class='div' v-bind:class="[isActive ? 'red' : 'blue']" @click="toggleClass()"></div> -->
-
-   
   </div>
 </template>
 
