@@ -1,13 +1,11 @@
 <template>
       <div class="hero"></div>
 </template>
-
 <script>
 
 export default {
    name: "HeaderImage",
-
-  data: function() {
+   data: function() {
     return {
       title: "Search",
       isActive: true,
@@ -27,19 +25,15 @@ export default {
       page: 0
     };
   },
-
-  
 };
 </script>
 
 <style>
-
 .hero {
   height: 500px;
   width: 100%;
   background-image: url('../assets/background-image.jpg');
   background-repeat: no-repeat;
   margin-bottom: 50px;
-
 }
 </style>
